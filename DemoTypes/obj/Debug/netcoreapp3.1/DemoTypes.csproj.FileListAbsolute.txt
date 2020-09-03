@@ -1,0 +1,8 @@
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\bin\Debug\netcoreapp3.1\DemoTypes.deps.json
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\bin\Debug\netcoreapp3.1\DemoTypes.dll
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\bin\Debug\netcoreapp3.1\DemoTypes.pdb
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\obj\Debug\netcoreapp3.1\DemoTypes.csprojAssemblyReference.cache
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\obj\Debug\netcoreapp3.1\DemoTypes.AssemblyInfoInputs.cache
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\obj\Debug\netcoreapp3.1\DemoTypes.AssemblyInfo.cs
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\obj\Debug\netcoreapp3.1\DemoTypes.dll
+C:\Users\timot\source\repos\DemoTypes\DemoTypes\obj\Debug\netcoreapp3.1\DemoTypes.pdb
